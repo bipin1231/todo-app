@@ -19,7 +19,7 @@ npm run dev
 ```
 
 # 4. Open the application in your browser
-http://localhost:3000](http://localhost:5173/todos)
+http://localhost:5173/todos
 
 
 ## Approach
