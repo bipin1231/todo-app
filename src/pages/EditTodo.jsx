@@ -42,7 +42,7 @@ export default function EditTodo() {
         image: imageUrl,
       });
 
-     // navigate("/todos");
+     navigate("/todos");
     } catch (err) {
 
       alert(
