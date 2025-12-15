@@ -69,7 +69,7 @@ if(!todo) return(
           </button>
 
           <h1 className="text-5xl font-light text-white tracking-tight">
-            New Task
+            Update Task
           </h1>
         </div>
 
