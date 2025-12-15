@@ -1,4 +1,25 @@
-React Todo App (React + Zustand + React Hook Form + React Router + TailwindCSS + Cloudinary)
+# React Todo App (React + Zustand + React Hook Form + React Router + TailwindCSS + Cloudinary)
+
+## Run the project locally
+
+### 1. Clone the repository
+```
+git clone https://github.com/bipin1231/todo-app.git
+cd todo-app
+```
+
+### 2. Install dependencies
+```
+npm install
+```
+
+### 3. Start the development server
+```
+npm run dev
+```
+
+### 4. Open the application in your browser
+http://localhost:5173/todos
 
 
 ## Approach
